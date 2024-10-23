@@ -1,0 +1,7 @@
+numpy
+torch
+transformers
+tokenizers
+accelerate
+gdown
+mauve-text
