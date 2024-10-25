@@ -1,11 +1,11 @@
 ## Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework<br><sub>Official Implementation</sub>
 
-### [Paper](future_archieve_paper_link) | [Project Page](https://yecanlee.github.io/2beoetgwebsite.github.io/) | Run Analysis Baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C6u0i0fHpk80uPhDWNylIlq64F_HSl-1?usp=sharing)
+### [Paper](https://arxiv.org/abs/2410.18653) | [Project Page](https://yecanlee.github.io/2beoetgwebsite.github.io/) | Run Analysis Baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C6u0i0fHpk80uPhDWNylIlq64F_HSl-1?usp=sharing)
 <img src="assets/benchmark_art.png" alt="A symbol of multi-criteria evaluation" width="300" />
 
-This repo contains the official implementation of our paper __"Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework"__. You can find more details in our [project page](https://yecanlee.github.io/2beoetgwebsite.github.io/) and our [paper](future_archieve_paper_link).
+This repo contains the official implementation of our paper __"Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework"__. You can find more details in our [project page](https://yecanlee.github.io/2beoetgwebsite.github.io/) and our [paper](https://arxiv.org/abs/2410.18653).
 
-> [**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**](future_archieve_paper_link)<br>
+> [**Towards Better Open-Ended Text Generation: A Multicriteria Evaluation Framework**](https://arxiv.org/abs/2410.18653)<br>
 > [Esteban Garces Arias](https://scholar.google.com/citations?user=FK1UX0gAAAAJ&hl=es),[Hannah Blocher](https://www.foundstat.statistik.uni-muenchen.de/personen/mitglieder/blocher/index.html), [Julian Rodemann](https://rodemann.github.io/), [Meimingwei Li](https://github.com/YecanLee), [Christian Heumann](https://scholar.google.de/citations?user=H6LdyzoAAAAJ&hl=de),[Matthias Aßenmacher](https://www.slds.stat.uni-muenchen.de/people/assenmacher/)
 > <br>Department of Statistics, LMU Munich, Munich Center for Machine Learning (MCML)<br>
 
